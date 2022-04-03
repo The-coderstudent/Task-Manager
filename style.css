@@ -1,0 +1,88 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+#b1
+{
+  height: 130px;
+  width: 100%;
+  background-color: #38E58C;
+}
+
+#h1
+{
+  padding-left: 30px;
+  padding-top: 30px;
+  font-family: Comic sans ms;
+}
+
+#h3
+{
+  padding-left: 35px;
+  padding-top: 35px;
+  font-family: Comic sans ms;
+}
+
+
+
+#Task
+{
+  margin-left: 35px;  
+  margin-top: 20px;
+  height: 35px;
+  width: 210px;
+}
+
+
+
+#Sub
+{
+  border-radius: 30px;
+  border: 2px solid yellow double;
+  height: 35px;
+  width: 65px;
+  margin-left: 15px;
+}
+
+#h32
+{
+  padding-left: 35px;
+  padding-top: 35px;
+  font-family: Comic sans ms;
+}
+
+#item_show
+{
+  padding-left: 35px ;
+  padding-top: 15px;
+  font-family: Comic sans ms;
+  text-align-last: bottom;
+  list-style-type: none;
+}
+
+.style_li
+{
+  padding: 10px ;
+  border: 1px solid black;
+}
+
+.edit_li
+{
+  margin-left: 750px;
+  background-color: #50DB66;
+  height: 30px;
+  width: 40px;
+}
+
+.delete_li
+{
+  margin-left: 20px;
+  margin-top: 1px;
+  background-color: #FF0000;
+  height: 30px;
+  width: 48px;
+}
